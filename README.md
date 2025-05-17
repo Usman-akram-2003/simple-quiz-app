@@ -1,0 +1,3 @@
+This is my second project using html css js dom and it is a simple quiz app adding a limited questions and total score at end <br>
+I an trying to build max projects before react.js <br>
+................................
